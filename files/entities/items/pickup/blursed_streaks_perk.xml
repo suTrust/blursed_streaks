@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Entity>
+    <ItemComponent>
+        <ui_name>Blursed Health Mod</ui_name>
+        <ui_description>Changes Max Health based on your Win or Loss streak.</ui_description>
+    </ItemComponent>
+    <!-- Add other components as needed -->
+</Entity>

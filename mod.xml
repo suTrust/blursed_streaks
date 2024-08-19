@@ -1,0 +1,9 @@
+<Mod
+    name="Blursed Streaks"
+    description="The Gods are Watching. Decrease your starting health by 1 for every consecutive win. Increase your starting health by 1 for every consecutive loss."
+    version="1.1"
+    mod_author="Sp4m"
+    lua_script="scripts/init.lua"
+    load_optional_lua="true"
+>
+</Mod>

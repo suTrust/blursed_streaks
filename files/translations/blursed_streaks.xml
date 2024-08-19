@@ -1,0 +1,8 @@
+<localization>
+    <string_table>
+        <english>
+            <data name="blursed_streaks_description">Changes Max Health based on your Win or Loss streak</data>
+        </english>
+        <!-- Add other languages here if needed -->
+    </string_table>
+</localization>
